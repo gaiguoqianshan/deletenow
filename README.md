@@ -1,4 +1,4 @@
-#Makedown语法学习
+﻿#Makedown语法学习
 第一次使Makedown以及对github的学习
 ##这里是二级标题
 ##列表
@@ -51,7 +51,7 @@
 [2]: http://wowubuntu.com/markdown/  
   
 ##图片
-![污]()
+![污](http://pp.sohu.com/u/180188285/fitrsDGbo7g)
 
 
 

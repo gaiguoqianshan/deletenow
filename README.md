@@ -51,7 +51,7 @@
 [2]: http://wowubuntu.com/markdown/  
   
 ##图片
-![污](http://pp.sohu.com/u/180188285/fitrsDGbo7g)
+![污](https://ooo.0o0.ooo/2016/01/05/568b8a01a4fd1.jpg)
 
 
 
